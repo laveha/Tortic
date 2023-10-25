@@ -1,0 +1,14 @@
+D:\Проекты\Тортики\bin\Debug\net6.0\Тортики.exe
+D:\Проекты\Тортики\bin\Debug\net6.0\Тортики.deps.json
+D:\Проекты\Тортики\bin\Debug\net6.0\Тортики.runtimeconfig.json
+D:\Проекты\Тортики\bin\Debug\net6.0\Тортики.dll
+D:\Проекты\Тортики\bin\Debug\net6.0\Тортики.pdb
+D:\Проекты\Тортики\obj\Debug\net6.0\Тортики.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Тортики\obj\Debug\net6.0\Тортики.AssemblyInfoInputs.cache
+D:\Проекты\Тортики\obj\Debug\net6.0\Тортики.AssemblyInfo.cs
+D:\Проекты\Тортики\obj\Debug\net6.0\Тортики.csproj.CoreCompileInputs.cache
+D:\Проекты\Тортики\obj\Debug\net6.0\Тортики.dll
+D:\Проекты\Тортики\obj\Debug\net6.0\refint\Тортики.dll
+D:\Проекты\Тортики\obj\Debug\net6.0\Тортики.pdb
+D:\Проекты\Тортики\obj\Debug\net6.0\Тортики.genruntimeconfig.cache
+D:\Проекты\Тортики\obj\Debug\net6.0\ref\Тортики.dll
